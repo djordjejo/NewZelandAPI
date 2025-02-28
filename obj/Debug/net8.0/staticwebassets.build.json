@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "LFRa5v70hp9xHSgc94WN+gKqFyiXARABLw3sIQohGNg=",
+  "Source": "NewZelandAPI",
+  "BasePath": "_content/NewZelandAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
